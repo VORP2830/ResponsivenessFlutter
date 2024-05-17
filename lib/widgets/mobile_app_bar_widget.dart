@@ -14,6 +14,7 @@ class MobileAppBarWidget extends StatelessWidget {
           color: Colors.white,
         ),
       ),
+      centerTitle: true,
       actions: [
         IconButton(
           onPressed: () {},
